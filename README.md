@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yourkirand/Spacegame/_apis/build/status/Spacegame?branchName=master)](https://dev.azure.com/yourkirand/Spacegame/_build/latest?definitionId=16&branchName=master)
 
 # Contributing
 
