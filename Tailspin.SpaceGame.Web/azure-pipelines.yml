@@ -1,7 +1,5 @@
-# Modified by kiran dongara
-trigger:
-  - '*'
-  
+# Modified by kiran dongara to remove triggers
+
   pool:
     vmImage: 'ubuntu-16.04'
     demands:
